@@ -16,5 +16,3 @@ members:
 
 fetch : this
 new: branch
-
-signed : yes
